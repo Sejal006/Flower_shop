@@ -1,0 +1,18 @@
+
+#a{
+  float: left;
+  margin: 20px;
+  
+}
+#b{
+  color: rgb(182, 89, 89);
+  
+}
+
+#Button{
+  margin-right: 10px;
+  }
+
+#Button.hover{
+  color: rgb(139, 139, 17);
+}
